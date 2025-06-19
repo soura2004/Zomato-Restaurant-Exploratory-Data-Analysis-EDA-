@@ -65,3 +65,11 @@ Sourajyoti Chakraborty
 📧 [sourajyotiraj2004@gmail.com]
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sourajyoti-chakraborty2004/)
 
+![download (3)](https://github.com/user-attachments/assets/c1258d04-7a45-4240-8098-ef5052d9fb27)
+![download (2)](https://github.com/user-attachments/assets/8b9e3cf8-e2b7-4f97-84a1-68eaa3e1d264)
+![download (6)](https://github.com/user-attachments/assets/d63d03a2-55ad-4106-bafa-bd95ab050878)
+![download (5)](https://github.com/user-attachments/assets/9815808a-c919-4a1e-9ac3-cd7595da8d71)
+![download (4)](https://github.com/user-attachments/assets/01c4cf6d-9aee-4d41-b39a-d5dae03a9015)
+
+
+
