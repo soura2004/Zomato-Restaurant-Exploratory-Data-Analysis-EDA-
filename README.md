@@ -1,4 +1,4 @@
-🍽️ Zomato Business Insights – Data Analysis Project
+# 🍽️ Zomato Business Insights – Data Analysis Project #
 📊 Project Overview
 This project focuses on analyzing restaurant data from Zomato to uncover actionable business insights. The analysis helps stakeholders understand customer preferences, pricing strategies, service trends, and popular locations in the food delivery and dine-out industry.
 
