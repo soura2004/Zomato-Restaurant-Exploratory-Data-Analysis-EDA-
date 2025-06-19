@@ -58,7 +58,7 @@ bash
 Copy
 Edit
 
-git clone https://github.com/your-username/zomato-business-insights.git
+git clone (https://github.com/soura2004/Zomato-Restaurant-Exploratory-Data-Analysis-EDA-.git)
 cd zomato-business-insights
 Install dependencies:
 
@@ -84,6 +84,6 @@ For business stakeholders identifying market gaps
 📬 Contact
 For queries or collaborations:
 Sourajyoti Chakraborty
-📧 [YourEmail@example.com]
-🔗 LinkedIn Profile
+📧 [sourajyotiraj2004@gmail.com]
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sourajyoti-chakraborty2004/)
 
