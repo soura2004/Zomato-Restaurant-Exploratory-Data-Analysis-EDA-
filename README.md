@@ -30,18 +30,6 @@ Notebook: Jupyter Notebook
 
 Data Source: Zomato restaurant dataset (publicly available)
 
-📁 Repository Structure
-bash
-Copy
-Edit
-
-📦 Zomato-Business-Insights/
-│
-├── data/                   # Raw dataset files
-├── notebooks/              # Jupyter notebooks with EDA and visualizations
-├── plots/                  # Exported charts and graphs
-├── README.md               # Project overview and insights
-└── requirements.txt        # List of dependencies
 📈 Sample Visuals
 Correlation heatmaps
 
@@ -52,29 +40,19 @@ Cuisine frequency bar charts
 Locality-wise restaurant density heatmaps
 
 🚀 How to Run
+
 Clone the repository:
-
-bash
-Copy
-Edit
-
 git clone (https://github.com/soura2004/Zomato-Restaurant-Exploratory-Data-Analysis-EDA-.git)
 cd zomato-business-insights
+
 Install dependencies:
-
-bash
-Copy
-Edit
-
 pip install -r requirements.txt
+
 Launch the notebook:
-
-bash
-Copy
-Edit
-
 jupyter notebook notebooks/zomato_eda.ipynb
+
 📌 Use Cases
+
 For restaurant owners exploring location and cuisine strategies
 
 For data analysts looking to apply EDA techniques
